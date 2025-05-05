@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/262.c46ee65f.chunk.css","mappings":"AAAA,YACE,qBAAyB,CACzB,UACF,CACA,cAEE,cAAe,CADf,iBAEF","sources":["components/Threejs/styles/statsPanel.css"],"sourcesContent":[".statsPanel{\r\n  background-color: #000000;\r\n  color: white;\r\n}\r\n.statsPanel p{\r\n  text-align: center;\r\n  font-size: 1rem;\r\n}"],"names":[],"sourceRoot":""}
