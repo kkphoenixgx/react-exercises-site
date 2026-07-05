@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-BguSqK0t.js";var t=e(),n=({cover:e,title:n,body:r})=>(0,t.jsxs)(`div`,{className:`post`,children:[(0,t.jsx)(`img`,{src:e,alt:n}),(0,t.jsxs)(`div`,{className:`post-content`,children:[(0,t.jsx)(`h3`,{children:n}),(0,t.jsx)(`p`,{children:r})]})]});export{n as Post};

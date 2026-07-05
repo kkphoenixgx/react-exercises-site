@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-BguSqK0t.js";var t={heading:`_heading_1690u_1`,cyan:`_cyan_1690u_8`},n=e();function r(e){return(0,n.jsx)(`h1`,{className:t.heading,children:e.children})}export{r as Heading};

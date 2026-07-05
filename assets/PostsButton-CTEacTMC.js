@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-BguSqK0t.js";var t=e(),n=e=>(0,t.jsx)(`button`,{className:`postsButton`,onClick:e.callback,children:e.text});export{n as PostsButton};
