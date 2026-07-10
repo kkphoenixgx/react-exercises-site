@@ -1,0 +1,1 @@
+import{r as e,t}from"./jsx-runtime-BguSqK0t.js";import{Container as n}from"./Container-CGWgn2Nf.js";var r={counter:`_counter_s21w0_1`},i=e({Counter:()=>o}),a=t();function o(){return(0,a.jsx)(n,{children:(0,a.jsx)(`p`,{className:r.counter,children:`00:00`})})}export{i as n,o as t};

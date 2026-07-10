@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-BguSqK0t.js";var t={"container-fluid":`_container-fluid_it8f0_1`,container:`_container_it8f0_1`,content:`_content_it8f0_10`},n=e();function r({children:e}){return(0,n.jsx)(`div`,{className:t.container,children:(0,n.jsx)(`div`,{className:t.content,children:e})})}export{r as Container};

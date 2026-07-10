@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-BguSqK0t.js";import{Container as t}from"./Container-CGWgn2Nf.js";import{t as n}from"./Menu-Dj1JsP4A.js";import{t as r}from"./Logo-Cy1z4cmM.js";var i=e();function a(){return(0,i.jsxs)(t,{children:[(0,i.jsx)(r,{}),(0,i.jsx)(n,{})]})}export{a as Heading};
